@@ -92,7 +92,7 @@ const movies = {
   },
 };
 
-class App extends Component {
+class App extends React.Component {
   render() {
     return (
       <div>
